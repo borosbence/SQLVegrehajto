@@ -3,7 +3,7 @@
                     xmlns:local="clr-namespace:SQLVegrehajto.lang" 
                     xmlns:System="clr-namespace:System;assembly=mscorlib">
 
-    <System:String x:Key="SQLExecutor">SQLExecutor</System:String>
+    <System:String x:Key="SQLExecutor">SQLVégrehajtó</System:String>
     <System:String x:Key="File">Fájl</System:String>
     <System:String x:Key="Open">Megnyitás</System:String>
     <System:String x:Key="OpenFilter">sql fájlok | *.sql</System:String>
