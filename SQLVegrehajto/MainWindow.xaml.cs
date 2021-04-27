@@ -27,13 +27,6 @@ namespace SQLVegrehajto
         public MainWindow()
         {
             InitializeComponent();
-            Init();
-        }
-
-        public void Init()
-        {
-            ServerTextBox.Text = "localhost";
-            UsernameTextBox.Text = "root";
         }
 
         private void OpenButton_Click(object sender, RoutedEventArgs e)
